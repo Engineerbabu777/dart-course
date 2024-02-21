@@ -1,0 +1,9 @@
+
+// DATA TYPES!
+// NUMBERS!
+// STRINGS!
+// BOOLEANS!
+// LISTS!
+// MAPS!
+// RUNES!
+// SYMBOLS!
